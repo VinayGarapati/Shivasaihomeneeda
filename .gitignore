@@ -1,0 +1,22 @@
+# Dependencies
+node_modules/
+.pnp
+.pnp.js
+
+# Testing & Coverage
+coverage/
+
+# Production Build
+dist/
+build/
+
+# Misc
+.DS_Store
+*.pem
+*.log
+.aistudio/
+tmp/
+
+# Env files
+.env*
+!.env.example

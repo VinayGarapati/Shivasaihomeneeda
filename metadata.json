@@ -1,0 +1,8 @@
+{
+  "name": "Remix Sivasai Home Needs - Mosquito Net Doors \u0026 Window Screens",
+  "description": "Manufacturer and custom installation specialists for mosquito net doors, sliding mesh systems, pleated mesh doors, and stainless steel insect screens.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
